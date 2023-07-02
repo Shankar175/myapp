@@ -1,0 +1,31 @@
+{
+  "productsDB": [
+    {
+      "name": "Nokia 1100",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "5500",
+      "description": "Smartphone",
+      "createdAt": "2023-07-02",
+      "id": 1
+    },
+    {
+      "name": "iPhone 13",
+      "brand": "iPhone",
+      "category": "Phones",
+      "price": "62999",
+      "description": "Latest Version",
+      "createdAt": "2023-07-02",
+      "id": 3
+    },
+    {
+      "name": "Dell Latitude",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": "25000",
+      "description": "Professional Computer",
+      "createdAt": "2023-07-02",
+      "id": 4
+    }
+  ]
+}
