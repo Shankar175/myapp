@@ -1,0 +1,22 @@
+1. Create react app
+    npx create-react-app myappname
+
+2. Dependencies
+    npm install --save react-router-dom
+    npm install nodemon
+    npm install bootstrap
+
+3. Install & Run JSON Server
+    npm install -g json-server
+    json-server --watch db.json (default port)
+    json-server --watch db.json --port 3004 (custom port)
+
+4. Script
+    npm install react-scripts@latest
+
+5. Run app
+    npm start
+
+6. Add lint in scrips (package.json file)
+    "lint": "eslint --ext .js,.jsx src/",
+    "lint:fix": "npm run lint -- --fix"
